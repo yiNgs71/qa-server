@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Base de datos local
+*.db
+project.db
+
+# Caché de Python y Pruebas
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
